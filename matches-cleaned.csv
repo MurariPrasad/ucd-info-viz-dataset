@@ -1,4 +1,3 @@
-match_id,team1,team2,score_team1,score_team2,wickets_team1,wickets_team2,team1_away_or_home,team2_home_away,winner,margin,margin_type,time_of_day,series,player_of_match,player_of_match_team,venue,toss,toss_decision,ball_remaining,ground,ground_city,ground_country,match_date
 ODI # 1028,West Indies,Australia,172,173,9,9,away,home,Australia,1,wicket,Day and night,Benson & Hedges World Series,Paul Reiffel,Australia,Sydney Cricket Ground,West Indies,bat first,,Sydney,Moore Park,Australia,1996-01-01
 ODI # 1029,West Indies,Sri Lanka,194,124,10,10,away,away,West Indies,70,runs,Day,Benson & Hedges World Series,Shivnarine Chanderpaul,West Indies,"Bellerive Oval, Hobart",Sri Lanka,field first,,Hobart,Bellerive,Australia,1996-01-03
 ODI # 1030,Sri Lanka,West Indies,102,104,10,3,away,away,West Indies,7,wickets,Day and night,Benson & Hedges World Series,Curtly Ambrose,West Indies,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Sri Lanka,bat first,143,Brisbane,Woolloongabba,Australia,1996-01-05
@@ -49,7 +48,6 @@ ODI # 1077,England,Sri Lanka,235,236,8,5,away,away,Sri Lanka,5,wickets,Day,Wills
 ODI # 1078,India,Pakistan,287,248,8,9,home,away,India,39,runs,Day and night,Wills World Cup,Navjot Sidhu,India,"M Chinnaswamy Stadium, Bangalore",India,bat first,,Bengaluru,Bengaluru,India,1996-03-09
 ODI # 1079,West Indies,South Africa,264,245,8,10,away,away,West Indies,19,runs,Day,Wills World Cup,Brian Lara,West Indies,"National Stadium, Karachi",West Indies,bat first,,Karachi,Karachi,Pakistan,1996-03-11
 ODI # 1080,New Zealand,Australia,286,289,9,4,away,away,Australia,6,wickets,Day and night,Wills World Cup,Mark Waugh,Australia,"MA Chidambaram Stadium, Chepauk, Madras",New Zealand,bat first,13,Chennai,Chepauk,India,1996-03-11
-ODI # 1081,Sri Lanka,India,251,120,8,8,away,home,Sri Lanka,,default,Day and night,Wills World Cup,Aravinda de Silva,Sri Lanka,"Eden Gardens, Calcutta",India,field first,,Kolkata,Kolkata,India,1996-03-13
 ODI # 1083,Australia,Sri Lanka,241,245,7,3,away,away,Sri Lanka,7,wickets,Day and night,Wills World Cup,Aravinda de Silva,Sri Lanka,"Gaddafi Stadium, Lahore",Sri Lanka,field first,22,Lahore,Lahore,Pakistan,1996-03-17
 ODI # 1084,New Zealand,West Indies,243,247,10,9,away,home,West Indies,1,wicket,Day,New Zealand tour of West Indies,Dipak Patel,New Zealand,"Sabina Park, Kingston, Jamaica",West Indies,field first,5,Kingston,Kingston,West Indies,1996-03-26
 ODI # 1085,West Indies,New Zealand,238,239,7,6,home,away,New Zealand,4,wickets,Day,New Zealand tour of West Indies,Stephen Fleming,New Zealand,"Queen's Park Oval, Port of Spain, Trinidad",New Zealand,field first,1,Port of Spain,Port of Spain,West Indies,1996-03-29
@@ -647,7 +645,6 @@ ODI # 1719,Pakistan,England,273,165,6,10,away,home,Pakistan,108,runs,Day and nig
 ODI # 1720,Pakistan,Australia,257,258,10,3,away,away,Australia,7,wickets,Day,NatWest Series,Ricky Ponting,Australia,"Sophia Gardens, Cardiff",Pakistan,bat first,26,Cardiff,Cardiff,Wales,2001-06-09
 ODI # 1721,England,Australia,268,272,4,5,home,away,Australia,5,wickets,Day,NatWest Series,Ricky Ponting,Australia,"The Royal & Sun Alliance County Ground, Bristol",England,bat first,3,Bristol,Bishopston,England,2001-06-10
 ODI # 1722,Pakistan,England,242,240,8,10,away,home,Pakistan,2,runs,Day,NatWest Series,Marcus Trescothick,England,"Lord's, London",England,field first,,Lord's,St John's Wood Road,England,2001-06-12
-ODI # 1724,England,Pakistan,156,153,10,4,home,away,Pakistan awarded the match (opposition conceded),,,Day,NatWest Series,Waqar Younis,Pakistan,"Headingley, Leeds",Pakistan,field first,,Leeds,Leeds,England,2001-06-17
 ODI # 1725,Pakistan,Australia,290,254,9,10,away,away,Pakistan,36,runs,Day and night,NatWest Series,Waqar Younis,Pakistan,"Trent Bridge, Nottingham",Pakistan,bat first,,Nottingham,Nottingham,England,2001-06-19
 ODI # 1726,England,Australia,176,177,10,2,home,away,Australia,8,wickets,Day,NatWest Series,Ricky Ponting,Australia,"Kennington Oval, London",England,bat first,119,The Oval,London,England,2001-06-21
 ODI # 1727,West Indies,Zimbabwe,266,239,5,9,away,home,West Indies,27,runs,Day,Coca-Cola Cup (Zimbabwe),Cameron Cuffy,West Indies,Harare Sports Club,Zimbabwe,field first,,Harare,Harare,Zimbabwe,2001-06-23
@@ -765,12 +762,12 @@ ODI # 1844,Australia,Pakistan,167,168,10,8,home,away,Pakistan,2,wickets,Day and 
 ODI # 1845,New Zealand,West Indies,291,292,8,6,away,home,West Indies,4,wickets,Day,New Zealand tour of West Indies,Chris Gayle,West Indies,"Arnos Vale Ground, Kingstown, St Vincent",New Zealand,bat first,,Kingstown,Arnos Vale,West Indies,2002-06-16
 ODI # 1846,Pakistan,Australia,256,165,7,10,away,home,Pakistan,91,runs,Day and night,Pakistan tour of Australia,Shoaib Akhtar,Pakistan,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Pakistan,bat first,,Brisbane,Woolloongabba,Australia,2002-06-19
 ODI # 1847,England,Sri Lanka,293,249,6,9,home,away,England,44,runs,Day and night,NatWest Series,Andrew Flintoff,England,"Trent Bridge, Nottingham",England,bat first,,Nottingham,Nottingham,England,2002-06-27
-ODI # 1848,England,India,271,272,7,4,home,away,India,6,wickets,Day,,Yuvraj Singh,India,"Lord's, London",England,bat first,7,Lord's,St John's Wood Road,England,2002-06-29
-ODI # 1849,Sri Lanka,India,202,203,8,6,away,away,India,4,wickets,Day,,Ajit Agarkar,India,"Kennington Oval, London",Sri Lanka,bat first,28,The Oval,London,England,2002-06-30
-ODI # 1850,Sri Lanka,England,240,241,7,7,away,home,England,3,wickets,Day,,Sanath Jayasuriya,Sri Lanka,"Headingley, Leeds",England,field first,4,Leeds,Leeds,England,2002-07-02
-ODI # 1852,Sri Lanka,India,187,188,10,6,away,away,India,4,wickets,Day,,Rahul Dravid,India,"Edgbaston, Birmingham",India,field first,11,Birmingham,Birmingham,England,2002-07-06
-ODI # 1853,Sri Lanka,England,229,206,10,10,away,home,Sri Lanka,23,runs,Day,,Kumar Sangakkara,Sri Lanka,"Old Trafford, Manchester",Sri Lanka,bat first,,Manchester,Stretford,England,2002-07-07
-ODI # 1854,England,India,229,165,8,10,home,away,England,64,runs,Day,,Ronnie Irani,England,"Kennington Oval, London",India,field first,,The Oval,London,England,2002-07-09
+ODI # 1848,England,India,271,272,7,4,home,away,India,6,wickets,Day,NatWest Series,Yuvraj Singh,India,"Lord's, London",England,bat first,7,Lord's,St John's Wood Road,England,2002-06-29
+ODI # 1849,Sri Lanka,India,202,203,8,6,away,away,India,4,wickets,Day,NatWest Series,Ajit Agarkar,India,"Kennington Oval, London",Sri Lanka,bat first,28,The Oval,London,England,2002-06-30
+ODI # 1850,Sri Lanka,England,240,241,7,7,away,home,England,3,wickets,Day,NatWest Series,Sanath Jayasuriya,Sri Lanka,"Headingley, Leeds",England,field first,4,Leeds,Leeds,England,2002-07-02
+ODI # 1852,Sri Lanka,India,187,188,10,6,away,away,India,4,wickets,Day,NatWest Series,Rahul Dravid,India,"Edgbaston, Birmingham",India,field first,11,Birmingham,Birmingham,England,2002-07-06
+ODI # 1853,Sri Lanka,England,229,206,10,10,away,home,Sri Lanka,23,runs,Day,NatWest Series,Kumar Sangakkara,Sri Lanka,"Old Trafford, Manchester",Sri Lanka,bat first,,Manchester,Stretford,England,2002-07-07
+ODI # 1854,England,India,229,165,8,10,home,away,England,64,runs,Day,NatWest Series,Ronnie Irani,England,"Kennington Oval, London",India,field first,,The Oval,London,England,2002-07-09
 ODI # 1855,India,Sri Lanka,304,241,10,10,away,away,India,63,runs,Day and night,NatWest Series,Sachin Tendulkar,India,"The Royal & Sun Alliance County Ground, Bristol",India,bat first,,Bristol,Bishopston,England,2002-07-11
 ODI # 1856,England,India,325,326,5,8,home,away,India,2,wickets,Day,NatWest Series,Mohammad Kaif,India,"Lord's, London",England,bat first,3,Lord's,St John's Wood Road,England,2002-07-13
 ODI # 1857,Bangladesh,Sri Lanka,226,228,8,5,away,home,Sri Lanka,5,wickets,Day,Bangladesh tour of Sri Lanka,Marvan Atapattu,Sri Lanka,"Sinhalese Sports Club Ground, Colombo",Bangladesh,bat first,32,Colombo (SSC),Colombo,Sri Lanka,2002-08-04
@@ -884,7 +881,6 @@ ODI # 1975,Pakistan,India,273,276,7,4,away,away,India,6,wickets,Day,ICC World Cu
 ODI # 1976,England,Australia,204,208,8,8,away,away,Australia,2,wickets,Day,ICC World Cup,Andy Bichel,Australia,"St George's Park, Port Elizabeth",England,bat first,2,Port Elizabeth,Port Elizabeth,South Africa,2003-03-02
 ODI # 1977,Canada,New Zealand,196,197,10,5,away,away,New Zealand,5,wickets,Day,ICC World Cup,John Davison,Canada,"Willowmoore Park, Benoni",New Zealand,field first,162,Benoni,Benoni,South Africa,2003-03-03
 ODI # 1978,Netherlands,Namibia,314,250,4,10,away,away,Netherlands,64,runs,Day,ICC World Cup,Feiko Kloppenburg,Netherlands,"Goodyear Park, Bloemfontein",Netherlands,bat first,,Bloemfontein,Bloemfontein,South Africa,2003-03-03
-ODI # 1979,Sri Lanka,South Africa,268,229,9,6,away,home,Match tied (D/L method),,,Day and night,ICC World Cup,Marvan Atapattu,Sri Lanka,"Kingsmead, Durban",Sri Lanka,bat first,,Durban,Durban,South Africa,2003-03-03
 ODI # 1981,West Indies,Kenya,246,104,7,10,away,away,West Indies,142,runs,Day,ICC World Cup,Vasbert Drakes,West Indies,"De Beers Diamond Oval, Kimberley",West Indies,bat first,,Kimberley,Kimberley,South Africa,2003-03-04
 ODI # 1982,Australia,Sri Lanka,319,223,5,10,away,away,Australia,96,runs,Day,ICC World Cup,Ricky Ponting,Australia,"SuperSport Park, Centurion",Australia,bat first,,Centurion,Centurion,South Africa,2003-03-07
 ODI # 1983,Kenya,India,225,226,6,4,away,away,India,6,wickets,Day and night,ICC World Cup,Sourav Ganguly,India,"Newlands, Cape Town",Kenya,bat first,13,Cape Town,Cape Town,South Africa,2003-03-07
@@ -1148,7 +1144,6 @@ ODI # 2267,India,West Indies,262,255,4,9,away,away,India,7,runs,Day and night,In
 ODI # 2268,Sri Lanka,India,281,263,9,9,home,away,Sri Lanka,18,runs,Day and night,Indian Oil Cup,Mahela Jayawardene,Sri Lanka,"R Premadasa Stadium, Colombo",Sri Lanka,bat first,,Colombo (RPS),Khettarama,Sri Lanka,2005-08-09
 ODI # 2269,Africa XI,Asia XI,198,196,10,10,away,away,Africa XI,2,runs,Day and night,Africa XI tour of South Africa,Ashwell Prince,Africa XI,"SuperSport Park, Centurion",Asia XI,field first,,Centurion,Centurion,South Africa,2005-08-17
 ODI # 2270,Asia XI,Africa XI,267,250,7,10,away,away,Asia XI,17,runs,Day and night,Africa XI tour of South Africa,Kumar Sangakkara,Asia XI,"Kingsmead, Durban",Asia XI,bat first,,Durban,Durban,South Africa,2005-08-20
-ODI # 2271,Africa XI,Asia XI,106,8,10,2,away,away,No result,,,Day and night,Africa XI tour of South Africa,Shoaib Akhtar,Asia XI,"Kingsmead, Durban",Africa XI,bat first,,Durban,Durban,South Africa,2005-08-21
 ODI # 2272,New Zealand,Zimbabwe,397,205,5,10,away,home,New Zealand,192,runs,Day,Videocon Triangular Series,Lou Vincent,New Zealand,"Queens Sports Club, Bulawayo",Zimbabwe,field first,,Bulawayo,Bulawayo,Zimbabwe,2005-08-24
 ODI # 2273,New Zealand,India,215,164,10,10,away,away,New Zealand,51,runs,Day,Videocon Triangular Series,Shane Bond,New Zealand,"Queens Sports Club, Bulawayo",New Zealand,bat first,,Bulawayo,Bulawayo,Zimbabwe,2005-08-26
 ODI # 2274,India,Zimbabwe,226,65,6,10,away,home,India,161,runs,Day,Videocon Triangular Series,Irfan Pathan,India,Harare Sports Club,Zimbabwe,field first,,Harare,Harare,Zimbabwe,2005-08-29
